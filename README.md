@@ -1,5 +1,5 @@
 ![MasterHead](https://www.ibm.com/blog/wp-content/uploads/2023/09/dsc02281-edit-edit-5-edit.blog-lead-space-40x21-1-1200x630.jpg)
-<h1 align="center">Hi 👋, I'm Syed Muhammad</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Syed Muhammad</h1>
 <h3 align="center">I am passionate about Genrative AI & Data related fields</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cuelogic.com/wp-content/uploads/2023/09/Thumbnail.png.webp">
 
