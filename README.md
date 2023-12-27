@@ -1,6 +1,6 @@
 ![MasterHead](https://www.ibm.com/blog/wp-content/uploads/2023/09/dsc02281-edit-edit-5-edit.blog-lead-space-40x21-1-1200x630.jpg)
-<h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">I am passionate about Genrative AI, and Data related fields</h3>
+<h1 align="center">Hi 👋, I'm Syed Muhammad</h1>
+<h3 align="center">I am passionate about Genrative AI & Data related fields</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cuelogic.com/wp-content/uploads/2023/09/Thumbnail.png.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagglemaster&label=Profile%20views&color=0e75b6&style=flat" alt="kagglemaster" /> </p>
