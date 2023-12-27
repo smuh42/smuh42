@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Syed Muhammad</h1>
 <h3 align="center">I am passionate about Genrative AI & Data related fields</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cuelogic.com/wp-content/uploads/2023/09/Thumbnail.png.webp">
