@@ -1,6 +1,6 @@
 ![MasterHead](https://www.ibm.com/blog/wp-content/uploads/2023/09/dsc02281-edit-edit-5-edit.blog-lead-space-40x21-1.jpg)
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Syed Muhammad</h1>
-<h3 align="center">I am passionate about Genrative AI, and Data related fields</h3>
+<h3 align="center">I am passionate about Generative AI, and Data related fields</h3>
 <img align="right" alt="Coding" width="400" src="https://imageio.forbes.com/specials-images/imageserve/615a844b0e678d9d11c5fc26/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagglemaster&label=Profile%20views&color=0e75b6&style=flat" alt="kagglemaster" /> </p>
@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **syedmuhammadsyed2006@gmail.com**
 
-- ⚡ Fun fact **I am good at problem solving**
+- ⚡ Fun fact **I am good at problem-solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syed-muhammad-7099832a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-muhammad-7099832a6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-muhammad-5775852b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-muhammad-7099832a6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
