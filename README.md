@@ -29,9 +29,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" alt="sql" width="40" height="40"/>
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="40" height="40"/>
-  </a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smuh42&show_icons=true&locale=en" alt="smuh42" /></p>
